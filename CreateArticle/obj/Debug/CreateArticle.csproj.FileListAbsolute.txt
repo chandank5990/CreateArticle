@@ -1,0 +1,48 @@
+c:\users\it\documents\visual studio 2010\Projects\CreateArticle\CreateArticle\bin\CreateArticle.dll
+c:\users\it\documents\visual studio 2010\Projects\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+c:\users\it\documents\visual studio 2010\Projects\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+c:\users\it\documents\visual studio 2010\Projects\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\CreateArticle.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\itextsharp.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\NPOI.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\PdfSharp.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\PQScan.PDFToImage.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\Spire.License.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\bin\Spire.Pdf.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\bin\CreateArticle.dll
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\bin\AjaxControlToolkit.dll
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\obj\Debug\ResolveAssemblyReference.cache
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+W:\Software\CSK\Driver\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+W:\Software\CSK\Dummy\CreateArticle\CreateArticle\obj\Debug\CreateArticle.csprojResolveAssemblyReference.cache
+W:\Software\CSK\W\CreateArticle\CreateArticle\bin\CreateArticle.dll
+W:\Software\CSK\W\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+W:\Software\CSK\W\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+W:\Software\CSK\W\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+W:\Software\CSK\W\CreateArticle\CreateArticle\obj\Debug\CreateArticle.csprojResolveAssemblyReference.cache
+D:\CSK\CreateArticle\CreateArticle\bin\CreateArticle.dll
+D:\CSK\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+D:\CSK\CreateArticle\CreateArticle\bin\itextsharp.dll
+D:\CSK\CreateArticle\CreateArticle\bin\NPOI.dll
+D:\CSK\CreateArticle\CreateArticle\bin\PdfSharp.dll
+D:\CSK\CreateArticle\CreateArticle\bin\PQScan.PDFToImage.dll
+D:\CSK\CreateArticle\CreateArticle\bin\Spire.License.dll
+D:\CSK\CreateArticle\CreateArticle\bin\Spire.Pdf.dll
+D:\CSK\CreateArticle\CreateArticle\obj\Debug\CreateArticle.csprojResolveAssemblyReference.cache
+D:\CSK\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+D:\CSK\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+D:\CSK\CreateArticle\CreateArticle\bin\AjaxControlToolkit.dll
+W:\test\CreateArticle\CreateArticle\bin\CreateArticle.dll
+W:\test\CreateArticle\CreateArticle\bin\CreateArticle.pdb
+W:\test\CreateArticle\CreateArticle\obj\Debug\CreateArticle.csprojResolveAssemblyReference.cache
+W:\test\CreateArticle\CreateArticle\obj\Debug\CreateArticle.dll
+W:\test\CreateArticle\CreateArticle\obj\Debug\CreateArticle.pdb
+W:\Software\CSK\Previous Version\CreateArticle old\CreateArticle\bin\CreateArticle.dll
+W:\Software\CSK\Previous Version\CreateArticle old\CreateArticle\bin\CreateArticle.pdb
+W:\Software\CSK\Previous Version\CreateArticle old\CreateArticle\obj\Debug\CreateArticle.csprojResolveAssemblyReference.cache
+W:\Software\CSK\Previous Version\CreateArticle old\CreateArticle\obj\Debug\CreateArticle.dll
+W:\Software\CSK\Previous Version\CreateArticle old\CreateArticle\obj\Debug\CreateArticle.pdb
